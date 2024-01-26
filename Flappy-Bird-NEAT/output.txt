@@ -1,0 +1,9 @@
+
+Кращий геном:
+Key: 29
+Fitness: 7.2999999999999865
+Nodes:
+	0 DefaultNodeGene(key=0, bias=1.0595548899828733, response=1.0, activation=tanh, aggregation=sum)
+Connections:
+	DefaultConnectionGene(key=(-2, 0), weight=-1.1237992762056217, enabled=True)
+	DefaultConnectionGene(key=(-1, 0), weight=1.4169096647139676, enabled=True)
